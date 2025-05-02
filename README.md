@@ -52,6 +52,12 @@
 </span>
 
 
+<div align="center">
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=AlleGonzalez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AlleGonzalez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/AlleGonzalez)
+</div>
 
 
     
